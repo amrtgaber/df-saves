@@ -1,0 +1,338 @@
+[
+	{
+		"i" : 
+		[
+			0,
+			80,
+			100,
+			0,
+			0,
+			-1,
+			-1
+		],
+		"k" : "autochop/config",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/global",
+		"s" : "bars=0|blocks=1|boulders=1|logs=1|"
+	},
+	{
+		"i" : 
+		[
+			1,
+			6000,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "autonestbox/config",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			1,
+			1
+		],
+		"k" : "persist-tablemastertable$$stockpiles",
+		"s" : "0"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "persist-table$smallest_unused",
+		"s" : "1"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "persist-tablemastertable",
+		"s" : "stockpiles"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			1
+		],
+		"k" : "persist-table0$$settings_path",
+		"s" : "./stocksettings"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "persist-table0",
+		"s" : "settings_path"
+	},
+	{
+		"i" : 
+		[
+			1,
+			6000,
+			1,
+			20,
+			20,
+			10,
+			5
+		],
+		"k" : "autobutcher/config",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			190,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/BIRD_TURKEY",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			170,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/DOG",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			171,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/CAT",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			176,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/SHEEP",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			185,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/YAK",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			177,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/PIG",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			180,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/CAVY",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			184,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/BIRD_GOOSE",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			174,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/HORSE",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			188,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/BIRD_GUINEAFOWL",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			181,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/BIRD_DUCK",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			189,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/BIRD_PEAFOWL_BLUE",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			186,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/LLAMA",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			172,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/MULE",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			173,
+			1,
+			20,
+			20,
+			10,
+			5,
+			-1
+		],
+		"k" : "autobutcher/watchlist/DONKEY",
+		"s" : ""
+	}
+]

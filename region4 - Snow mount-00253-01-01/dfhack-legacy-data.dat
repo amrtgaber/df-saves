@@ -1,0 +1,114 @@
+[
+	{
+		"i" : 
+		[
+			0,
+			80,
+			100,
+			0,
+			0,
+			-1,
+			-1
+		],
+		"k" : "autochop/config",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			1,
+			6000,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "autonestbox/config",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/global",
+		"s" : "bars=0|blocks=1|boulders=1|logs=1|"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			1,
+			1
+		],
+		"k" : "persist-tablemastertable$$stockpiles",
+		"s" : "0"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "persist-table$smallest_unused",
+		"s" : "1"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "persist-tablemastertable",
+		"s" : "stockpiles"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			1
+		],
+		"k" : "persist-table0$$settings_path",
+		"s" : "./stocksettings"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "persist-table0",
+		"s" : "settings_path"
+	}
+]
